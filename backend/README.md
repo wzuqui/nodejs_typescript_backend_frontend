@@ -4,7 +4,7 @@
 yarn debug
 ```
 # Para debugar no Visual Studio Code
-Para sebugar basta colocar o breakpoint na linha escolhida no vscode e teclar F5.
+Para debugar basta colocar o breakpoint na linha escolhida no vscode e teclar F5.
 Este projeto foi configurado para funcionar com o vscode, após iniciar o 'yarn debug'.
 
 ## Utilização de injeção de dependência
